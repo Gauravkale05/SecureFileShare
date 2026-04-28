@@ -43,7 +43,8 @@ SecureFileShare/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the Repository
-```git clone https://github.com/your-username/SecureFileShare.git```
+```bash
+git clone https://github.com/your-username/SecureFileShare.git
 
 ### 2. Open in Android Studio
 - Open Android Studio  
