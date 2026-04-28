@@ -26,17 +26,16 @@ SecureFileShare is an Android application designed to securely upload, store, an
 
 ## 📂 Project Structure
 SecureFileShare/
-│── app/
+├── app/
 │ ├── src/
 │ │ ├── main/
 │ │ │ ├── java/
 │ │ │ ├── res/
 │ │ │ └── AndroidManifest.xml
-│── gradle/
-│── build.gradle
-│── settings.gradle
-│── README.md
-
+├── gradle/
+├── build.gradle
+├── settings.gradle
+└── README.md
 
 ---
 
